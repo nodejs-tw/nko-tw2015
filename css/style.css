@@ -369,7 +369,7 @@ img.icon_img {
 
 
 /* ____________________________________ Slide 4 ____________________________________ */
-#slide4 {
+#slide4, #slide6 {
 	background:url("../images/slide4_bg.jpg") repeat left top;
 	width:100%;
 	padding:86px 0 69px;
