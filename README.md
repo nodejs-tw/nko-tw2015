@@ -1,6 +1,6 @@
 # Node Knockout TW 2015
 
-### ABOUT NKO2015 (http://www.nodeknockout.com/)
+### About NKO-2015 (http://www.nodeknockout.com/)
 
 ```
 Node Knockout is a 48-hour hackathon featuring node.js. 
